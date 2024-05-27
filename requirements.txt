@@ -1,3 +1,4 @@
 TTS
 langchain
 ollama
+WhisperSpeech
